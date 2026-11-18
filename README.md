@@ -119,6 +119,6 @@ toxicity-detector/
 
 ## Author
 
-**refif ilan** - Personal ML/Data Science learning project (2025-2026)
+**lRzc** - Personal ML/Data Science learning project (2025-2026)
 
 Developed with Claude (Anthropic) as a learning tool - every concept was studied and coded independently.
